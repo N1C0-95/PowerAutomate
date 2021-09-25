@@ -1,9 +1,8 @@
-# Macchina a stati : Gestione Avanzamento Contratto
+# Creazione ed Invio di un file ICS
 
-### Trigger: IL flusso viene attivato tramite power apps
+### Trigger: IL flusso viene attivato alla creazione di un item su una lista sharepoint
 
-#### Nota: gli indirizzi email potevano essere recuperati da una lista sharepoint invece che scriverli staticamente.
 
-Questo flusso consente la gestione degli stati per una entity di tipo contratto.
+Questo flusso consente l'invio tramite email di un file ICS.
 
-![](https://github.com/N1C0-95/PowerAutomate/blob/main/Macchina%20A%20Stati/Manage%20Contract%20Progess/Screenshot_ManageContractProgress.png)
+![](https://github.com/N1C0-95/PowerAutomate/blob/main/ICS-Invitation/Screen-ICS-Invite.png)
